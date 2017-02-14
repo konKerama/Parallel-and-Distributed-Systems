@@ -1,0 +1,31 @@
+Total Tasks: 1
+Pid: 0,Size: 40000x40000 with propability: 30.0%
+Board generated
+Pid: 0,Time: 77.682751s, Game finished after 3 generations.
+
+Total Tasks: 2
+Pid: 0,Size: 40000x40000 with propability: 30.0%
+Total Tasks: 2
+Pid: 1,Size: 40000x40000 with propability: 30.0%
+Board generated
+Board generated
+Pid: 0,Time: 77.828733s, Game finished after 3 generations.
+Pid: 1,Time: 77.829466s, Game finished after 3 generations.
+
+
+Total Tasks: 4
+Pid: 0,Size: 20000x80000 with propability: 30.0%
+Total Tasks: 4
+Total Tasks: 4
+Total Tasks: 4
+Pid: 1,Size: 20000x80000 with propability: 30.0%
+Pid: 3,Size: 20000x80000 with propability: 30.0%
+Pid: 2,Size: 20000x80000 with propability: 30.0%
+Board generated
+Board generated
+Board generated
+Board generated
+Pid: 0,Time: 77.832408s, Game finished after 3 generations.
+Pid: 1,Time: 77.833128s, Game finished after 3 generations.
+Pid: 3,Time: 77.833270s, Game finished after 3 generations.
+Pid: 2,Time: 77.833048s, Game finished after 3 generations.
