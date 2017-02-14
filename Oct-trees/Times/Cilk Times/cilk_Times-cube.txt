@@ -1,0 +1,1332 @@
+Executing for cube distribution
+Max cilk workers to be used: 1
+Running for 1048576 particles with maximum height: 18
+Time to compute the hash codes            : 0.032627s
+Time to compute the morton encoding       : 0.021437s
+Time for the truncated radix sort         : 0.062372s
+Time to rearrange the particles in memory : 0.034677s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.028173s
+Time to compute the morton encoding       : 0.018457s
+Time for the truncated radix sort         : 0.056309s
+Time to rearrange the particles in memory : 0.030027s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.028102s
+Time to compute the morton encoding       : 0.018387s
+Time for the truncated radix sort         : 0.056671s
+Time to rearrange the particles in memory : 0.029536s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.027914s
+Time to compute the morton encoding       : 0.018340s
+Time for the truncated radix sort         : 0.056794s
+Time to rearrange the particles in memory : 0.029384s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.027894s
+Time to compute the morton encoding       : 0.018427s
+Time for the truncated radix sort         : 0.056608s
+Time to rearrange the particles in memory : 0.029377s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 2
+Running for 1048576 particles with maximum height: 18
+Time to compute the hash codes            : 0.020470s
+Time to compute the morton encoding       : 0.011252s
+Time for the truncated radix sort         : 0.042351s
+Time to rearrange the particles in memory : 0.019999s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.015866s
+Time to compute the morton encoding       : 0.009274s
+Time for the truncated radix sort         : 0.038924s
+Time to rearrange the particles in memory : 0.017487s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.020031s
+Time to compute the morton encoding       : 0.009339s
+Time for the truncated radix sort         : 0.037013s
+Time to rearrange the particles in memory : 0.017428s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.016354s
+Time to compute the morton encoding       : 0.009239s
+Time for the truncated radix sort         : 0.037140s
+Time to rearrange the particles in memory : 0.017543s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.017847s
+Time to compute the morton encoding       : 0.009503s
+Time for the truncated radix sort         : 0.035217s
+Time to rearrange the particles in memory : 0.017816s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 4
+Running for 1048576 particles with maximum height: 18
+Time to compute the hash codes            : 0.016078s
+Time to compute the morton encoding       : 0.007443s
+Time for the truncated radix sort         : 0.036747s
+Time to rearrange the particles in memory : 0.018825s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.011759s
+Time to compute the morton encoding       : 0.006549s
+Time for the truncated radix sort         : 0.031204s
+Time to rearrange the particles in memory : 0.014177s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.014324s
+Time to compute the morton encoding       : 0.006232s
+Time for the truncated radix sort         : 0.032743s
+Time to rearrange the particles in memory : 0.014343s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.013186s
+Time to compute the morton encoding       : 0.006249s
+Time for the truncated radix sort         : 0.028976s
+Time to rearrange the particles in memory : 0.014188s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.012411s
+Time to compute the morton encoding       : 0.006216s
+Time for the truncated radix sort         : 0.031249s
+Time to rearrange the particles in memory : 0.014326s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 8
+Running for 1048576 particles with maximum height: 18
+Time to compute the hash codes            : 0.030210s
+Time to compute the morton encoding       : 0.032105s
+Time for the truncated radix sort         : 0.035302s
+Time to rearrange the particles in memory : 0.018841s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.025893s
+Time to compute the morton encoding       : 0.013622s
+Time for the truncated radix sort         : 0.037572s
+Time to rearrange the particles in memory : 0.014227s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.013921s
+Time to compute the morton encoding       : 0.011853s
+Time for the truncated radix sort         : 0.032852s
+Time to rearrange the particles in memory : 0.016703s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.022174s
+Time to compute the morton encoding       : 0.013980s
+Time for the truncated radix sort         : 0.028886s
+Time to rearrange the particles in memory : 0.028733s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.021749s
+Time to compute the morton encoding       : 0.006325s
+Time for the truncated radix sort         : 0.039898s
+Time to rearrange the particles in memory : 0.035131s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 16
+Running for 1048576 particles with maximum height: 18
+Time to compute the hash codes            : 0.086865s
+Time to compute the morton encoding       : 0.036325s
+Time for the truncated radix sort         : 0.055829s
+Time to rearrange the particles in memory : 0.028377s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.022316s
+Time to compute the morton encoding       : 0.018003s
+Time for the truncated radix sort         : 0.042654s
+Time to rearrange the particles in memory : 0.027116s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.028637s
+Time to compute the morton encoding       : 0.013604s
+Time for the truncated radix sort         : 0.048934s
+Time to rearrange the particles in memory : 0.031304s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.033860s
+Time to compute the morton encoding       : 0.031984s
+Time for the truncated radix sort         : 0.038247s
+Time to rearrange the particles in memory : 0.036782s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.035500s
+Time to compute the morton encoding       : 0.012356s
+Time for the truncated radix sort         : 0.042713s
+Time to rearrange the particles in memory : 0.033590s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 32
+Running for 1048576 particles with maximum height: 18
+Time to compute the hash codes            : 0.143286s
+Time to compute the morton encoding       : 0.054080s
+Time for the truncated radix sort         : 0.135165s
+Time to rearrange the particles in memory : 0.051368s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.020289s
+Time to compute the morton encoding       : 0.050187s
+Time for the truncated radix sort         : 0.084109s
+Time to rearrange the particles in memory : 0.057648s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.049235s
+Time to compute the morton encoding       : 0.042545s
+Time for the truncated radix sort         : 0.078539s
+Time to rearrange the particles in memory : 0.039418s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.033351s
+Time to compute the morton encoding       : 0.041351s
+Time for the truncated radix sort         : 0.079959s
+Time to rearrange the particles in memory : 0.062164s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.050215s
+Time to compute the morton encoding       : 0.054292s
+Time for the truncated radix sort         : 0.069448s
+Time to rearrange the particles in memory : 0.050602s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 64
+Running for 1048576 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 128
+Running for 1048576 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 256
+Running for 1048576 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 512
+Running for 1048576 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 1024
+Running for 1048576 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 2048
+Running for 1048576 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 1
+Running for 2097152 particles with maximum height: 18
+Time to compute the hash codes            : 0.064032s
+Time to compute the morton encoding       : 0.041966s
+Time for the truncated radix sort         : 0.124560s
+Time to rearrange the particles in memory : 0.070192s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.055746s
+Time to compute the morton encoding       : 0.036680s
+Time for the truncated radix sort         : 0.111527s
+Time to rearrange the particles in memory : 0.060113s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.055808s
+Time to compute the morton encoding       : 0.036622s
+Time for the truncated radix sort         : 0.111477s
+Time to rearrange the particles in memory : 0.061005s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.055653s
+Time to compute the morton encoding       : 0.036727s
+Time for the truncated radix sort         : 0.111992s
+Time to rearrange the particles in memory : 0.060036s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.055849s
+Time to compute the morton encoding       : 0.036694s
+Time for the truncated radix sort         : 0.112055s
+Time to rearrange the particles in memory : 0.060797s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 2
+Running for 2097152 particles with maximum height: 18
+Time to compute the hash codes            : 0.039838s
+Time to compute the morton encoding       : 0.021745s
+Time for the truncated radix sort         : 0.081847s
+Time to rearrange the particles in memory : 0.040864s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.030288s
+Time to compute the morton encoding       : 0.018435s
+Time for the truncated radix sort         : 0.071157s
+Time to rearrange the particles in memory : 0.035218s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.032114s
+Time to compute the morton encoding       : 0.018415s
+Time for the truncated radix sort         : 0.074603s
+Time to rearrange the particles in memory : 0.035433s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.032399s
+Time to compute the morton encoding       : 0.018550s
+Time for the truncated radix sort         : 0.071430s
+Time to rearrange the particles in memory : 0.035620s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.031404s
+Time to compute the morton encoding       : 0.018468s
+Time for the truncated radix sort         : 0.071707s
+Time to rearrange the particles in memory : 0.035042s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 4
+Running for 2097152 particles with maximum height: 18
+Time to compute the hash codes            : 0.027872s
+Time to compute the morton encoding       : 0.016228s
+Time for the truncated radix sort         : 0.074086s
+Time to rearrange the particles in memory : 0.033027s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.024345s
+Time to compute the morton encoding       : 0.012427s
+Time for the truncated radix sort         : 0.062955s
+Time to rearrange the particles in memory : 0.027606s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.023209s
+Time to compute the morton encoding       : 0.012454s
+Time for the truncated radix sort         : 0.063567s
+Time to rearrange the particles in memory : 0.027555s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.027315s
+Time to compute the morton encoding       : 0.013006s
+Time for the truncated radix sort         : 0.059302s
+Time to rearrange the particles in memory : 0.030670s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.021979s
+Time to compute the morton encoding       : 0.012538s
+Time for the truncated radix sort         : 0.062778s
+Time to rearrange the particles in memory : 0.028159s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 8
+Running for 2097152 particles with maximum height: 18
+Time to compute the hash codes            : 0.056476s
+Time to compute the morton encoding       : 0.020010s
+Time for the truncated radix sort         : 0.080464s
+Time to rearrange the particles in memory : 0.034711s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.023457s
+Time to compute the morton encoding       : 0.016005s
+Time for the truncated radix sort         : 0.062834s
+Time to rearrange the particles in memory : 0.029834s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.029907s
+Time to compute the morton encoding       : 0.026146s
+Time for the truncated radix sort         : 0.064060s
+Time to rearrange the particles in memory : 0.038500s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.026253s
+Time to compute the morton encoding       : 0.018471s
+Time for the truncated radix sort         : 0.071802s
+Time to rearrange the particles in memory : 0.035156s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.022247s
+Time to compute the morton encoding       : 0.018096s
+Time for the truncated radix sort         : 0.061314s
+Time to rearrange the particles in memory : 0.029417s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 16
+Running for 2097152 particles with maximum height: 18
+Time to compute the hash codes            : 0.082856s
+Time to compute the morton encoding       : 0.041261s
+Time for the truncated radix sort         : 0.104221s
+Time to rearrange the particles in memory : 0.044793s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.043304s
+Time to compute the morton encoding       : 0.051663s
+Time for the truncated radix sort         : 0.074037s
+Time to rearrange the particles in memory : 0.039832s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.033283s
+Time to compute the morton encoding       : 0.032582s
+Time for the truncated radix sort         : 0.070293s
+Time to rearrange the particles in memory : 0.043497s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.041998s
+Time to compute the morton encoding       : 0.027920s
+Time for the truncated radix sort         : 0.074606s
+Time to rearrange the particles in memory : 0.031225s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.042141s
+Time to compute the morton encoding       : 0.033520s
+Time for the truncated radix sort         : 0.062110s
+Time to rearrange the particles in memory : 0.035894s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 32
+Running for 2097152 particles with maximum height: 18
+Time to compute the hash codes            : 0.108596s
+Time to compute the morton encoding       : 0.052622s
+Time for the truncated radix sort         : 0.153446s
+Time to rearrange the particles in memory : 0.067373s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.051958s
+Time to compute the morton encoding       : 0.050722s
+Time for the truncated radix sort         : 0.123209s
+Time to rearrange the particles in memory : 0.054586s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.060553s
+Time to compute the morton encoding       : 0.074335s
+Time for the truncated radix sort         : 0.109413s
+Time to rearrange the particles in memory : 0.049295s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.050638s
+Time to compute the morton encoding       : 0.028216s
+Time for the truncated radix sort         : 0.099379s
+Time to rearrange the particles in memory : 0.070786s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.106740s
+Time to compute the morton encoding       : 0.060014s
+Time for the truncated radix sort         : 0.094328s
+Time to rearrange the particles in memory : 0.063632s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 64
+Running for 2097152 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 128
+Running for 2097152 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 256
+Running for 2097152 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 512
+Running for 2097152 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 1024
+Running for 2097152 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 2048
+Running for 2097152 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 1
+Running for 4194304 particles with maximum height: 18
+Time to compute the hash codes            : 0.127298s
+Time to compute the morton encoding       : 0.083600s
+Time for the truncated radix sort         : 0.281004s
+Time to rearrange the particles in memory : 0.137969s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.111420s
+Time to compute the morton encoding       : 0.073310s
+Time for the truncated radix sort         : 0.258132s
+Time to rearrange the particles in memory : 0.122924s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.111421s
+Time to compute the morton encoding       : 0.073264s
+Time for the truncated radix sort         : 0.258158s
+Time to rearrange the particles in memory : 0.121673s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.111578s
+Time to compute the morton encoding       : 0.073183s
+Time for the truncated radix sort         : 0.258681s
+Time to rearrange the particles in memory : 0.121640s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.111462s
+Time to compute the morton encoding       : 0.073257s
+Time for the truncated radix sort         : 0.257974s
+Time to rearrange the particles in memory : 0.122123s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 2
+Running for 4194304 particles with maximum height: 18
+Time to compute the hash codes            : 0.070779s
+Time to compute the morton encoding       : 0.042994s
+Time for the truncated radix sort         : 0.185279s
+Time to rearrange the particles in memory : 0.083592s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.063161s
+Time to compute the morton encoding       : 0.036760s
+Time for the truncated radix sort         : 0.165619s
+Time to rearrange the particles in memory : 0.071234s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.058360s
+Time to compute the morton encoding       : 0.036728s
+Time for the truncated radix sort         : 0.160205s
+Time to rearrange the particles in memory : 0.070910s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.059590s
+Time to compute the morton encoding       : 0.037002s
+Time for the truncated radix sort         : 0.159517s
+Time to rearrange the particles in memory : 0.071636s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.058504s
+Time to compute the morton encoding       : 0.036811s
+Time for the truncated radix sort         : 0.162526s
+Time to rearrange the particles in memory : 0.071198s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 4
+Running for 4194304 particles with maximum height: 18
+Time to compute the hash codes            : 0.055461s
+Time to compute the morton encoding       : 0.030841s
+Time for the truncated radix sort         : 0.158729s
+Time to rearrange the particles in memory : 0.064920s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.040209s
+Time to compute the morton encoding       : 0.024760s
+Time for the truncated radix sort         : 0.140838s
+Time to rearrange the particles in memory : 0.054608s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.041619s
+Time to compute the morton encoding       : 0.024793s
+Time for the truncated radix sort         : 0.135264s
+Time to rearrange the particles in memory : 0.056622s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.040765s
+Time to compute the morton encoding       : 0.024770s
+Time for the truncated radix sort         : 0.137747s
+Time to rearrange the particles in memory : 0.054544s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.041844s
+Time to compute the morton encoding       : 0.024714s
+Time for the truncated radix sort         : 0.136119s
+Time to rearrange the particles in memory : 0.054490s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 8
+Running for 4194304 particles with maximum height: 18
+Time to compute the hash codes            : 0.065596s
+Time to compute the morton encoding       : 0.047873s
+Time for the truncated radix sort         : 0.162620s
+Time to rearrange the particles in memory : 0.070167s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.050216s
+Time to compute the morton encoding       : 0.024827s
+Time for the truncated radix sort         : 0.143050s
+Time to rearrange the particles in memory : 0.054642s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.044530s
+Time to compute the morton encoding       : 0.029864s
+Time for the truncated radix sort         : 0.135479s
+Time to rearrange the particles in memory : 0.062375s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.055454s
+Time to compute the morton encoding       : 0.026668s
+Time for the truncated radix sort         : 0.132699s
+Time to rearrange the particles in memory : 0.057699s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.049623s
+Time to compute the morton encoding       : 0.026376s
+Time for the truncated radix sort         : 0.132060s
+Time to rearrange the particles in memory : 0.063725s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 16
+Running for 4194304 particles with maximum height: 18
+Time to compute the hash codes            : 0.144158s
+Time to compute the morton encoding       : 0.059707s
+Time for the truncated radix sort         : 0.172869s
+Time to rearrange the particles in memory : 0.077316s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.061800s
+Time to compute the morton encoding       : 0.035729s
+Time for the truncated radix sort         : 0.150339s
+Time to rearrange the particles in memory : 0.071552s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.060566s
+Time to compute the morton encoding       : 0.043072s
+Time for the truncated radix sort         : 0.145088s
+Time to rearrange the particles in memory : 0.062446s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.059188s
+Time to compute the morton encoding       : 0.043397s
+Time for the truncated radix sort         : 0.146842s
+Time to rearrange the particles in memory : 0.063900s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.072222s
+Time to compute the morton encoding       : 0.033247s
+Time for the truncated radix sort         : 0.154192s
+Time to rearrange the particles in memory : 0.079505s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 32
+Running for 4194304 particles with maximum height: 18
+Time to compute the hash codes            : 0.257939s
+Time to compute the morton encoding       : 0.111746s
+Time for the truncated radix sort         : 0.214498s
+Time to rearrange the particles in memory : 0.089341s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.104572s
+Time to compute the morton encoding       : 0.068062s
+Time for the truncated radix sort         : 0.206050s
+Time to rearrange the particles in memory : 0.077054s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.081124s
+Time to compute the morton encoding       : 0.065005s
+Time for the truncated radix sort         : 0.215973s
+Time to rearrange the particles in memory : 0.077176s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.073808s
+Time to compute the morton encoding       : 0.063908s
+Time for the truncated radix sort         : 0.192692s
+Time to rearrange the particles in memory : 0.087171s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.072085s
+Time to compute the morton encoding       : 0.086078s
+Time for the truncated radix sort         : 0.200252s
+Time to rearrange the particles in memory : 0.076209s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 64
+Running for 4194304 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 128
+Running for 4194304 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 256
+Running for 4194304 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 512
+Running for 4194304 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 1024
+Running for 4194304 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 2048
+Running for 4194304 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 1
+Running for 8388608 particles with maximum height: 18
+Time to compute the hash codes            : 0.254639s
+Time to compute the morton encoding       : 0.167840s
+Time for the truncated radix sort         : 0.584260s
+Time to rearrange the particles in memory : 0.269384s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.222626s
+Time to compute the morton encoding       : 0.146480s
+Time for the truncated radix sort         : 0.537323s
+Time to rearrange the particles in memory : 0.235332s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.222589s
+Time to compute the morton encoding       : 0.146449s
+Time for the truncated radix sort         : 0.536762s
+Time to rearrange the particles in memory : 0.235479s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.222640s
+Time to compute the morton encoding       : 0.146467s
+Time for the truncated radix sort         : 0.536744s
+Time to rearrange the particles in memory : 0.234971s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.222447s
+Time to compute the morton encoding       : 0.146464s
+Time for the truncated radix sort         : 0.536208s
+Time to rearrange the particles in memory : 0.235228s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 2
+Running for 8388608 particles with maximum height: 18
+Time to compute the hash codes            : 0.133602s
+Time to compute the morton encoding       : 0.085462s
+Time for the truncated radix sort         : 0.375202s
+Time to rearrange the particles in memory : 0.162030s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.115075s
+Time to compute the morton encoding       : 0.073640s
+Time for the truncated radix sort         : 0.334956s
+Time to rearrange the particles in memory : 0.138680s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.120918s
+Time to compute the morton encoding       : 0.073619s
+Time for the truncated radix sort         : 0.335218s
+Time to rearrange the particles in memory : 0.139049s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.119780s
+Time to compute the morton encoding       : 0.073555s
+Time for the truncated radix sort         : 0.336531s
+Time to rearrange the particles in memory : 0.139299s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.118982s
+Time to compute the morton encoding       : 0.073723s
+Time for the truncated radix sort         : 0.336547s
+Time to rearrange the particles in memory : 0.139469s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 4
+Running for 8388608 particles with maximum height: 18
+Time to compute the hash codes            : 0.101732s
+Time to compute the morton encoding       : 0.063323s
+Time for the truncated radix sort         : 0.315632s
+Time to rearrange the particles in memory : 0.131149s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.082575s
+Time to compute the morton encoding       : 0.050640s
+Time for the truncated radix sort         : 0.280501s
+Time to rearrange the particles in memory : 0.114458s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.109665s
+Time to compute the morton encoding       : 0.049585s
+Time for the truncated radix sort         : 0.279040s
+Time to rearrange the particles in memory : 0.110239s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.084405s
+Time to compute the morton encoding       : 0.053144s
+Time for the truncated radix sort         : 0.272939s
+Time to rearrange the particles in memory : 0.113342s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.084125s
+Time to compute the morton encoding       : 0.049386s
+Time for the truncated radix sort         : 0.273895s
+Time to rearrange the particles in memory : 0.113083s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 8
+Running for 8388608 particles with maximum height: 18
+Time to compute the hash codes            : 0.104272s
+Time to compute the morton encoding       : 0.063956s
+Time for the truncated radix sort         : 0.315308s
+Time to rearrange the particles in memory : 0.134497s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.086955s
+Time to compute the morton encoding       : 0.053922s
+Time for the truncated radix sort         : 0.276336s
+Time to rearrange the particles in memory : 0.114734s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.084942s
+Time to compute the morton encoding       : 0.061988s
+Time for the truncated radix sort         : 0.274797s
+Time to rearrange the particles in memory : 0.113773s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.087077s
+Time to compute the morton encoding       : 0.054838s
+Time for the truncated radix sort         : 0.277570s
+Time to rearrange the particles in memory : 0.116577s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.088874s
+Time to compute the morton encoding       : 0.060096s
+Time for the truncated radix sort         : 0.271590s
+Time to rearrange the particles in memory : 0.122060s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 16
+Running for 8388608 particles with maximum height: 18
+Time to compute the hash codes            : 0.179496s
+Time to compute the morton encoding       : 0.072465s
+Time for the truncated radix sort         : 0.332169s
+Time to rearrange the particles in memory : 0.150628s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.091581s
+Time to compute the morton encoding       : 0.072848s
+Time for the truncated radix sort         : 0.294856s
+Time to rearrange the particles in memory : 0.119177s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.087131s
+Time to compute the morton encoding       : 0.063118s
+Time for the truncated radix sort         : 0.327383s
+Time to rearrange the particles in memory : 0.116817s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.090607s
+Time to compute the morton encoding       : 0.063853s
+Time for the truncated radix sort         : 0.309289s
+Time to rearrange the particles in memory : 0.125374s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.100384s
+Time to compute the morton encoding       : 0.072831s
+Time for the truncated radix sort         : 0.302311s
+Time to rearrange the particles in memory : 0.118912s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 32
+Running for 8388608 particles with maximum height: 18
+Time to compute the hash codes            : 0.208787s
+Time to compute the morton encoding       : 0.150130s
+Time for the truncated radix sort         : 0.387620s
+Time to rearrange the particles in memory : 0.184227s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.146381s
+Time to compute the morton encoding       : 0.082768s
+Time for the truncated radix sort         : 0.349118s
+Time to rearrange the particles in memory : 0.141042s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.126992s
+Time to compute the morton encoding       : 0.067783s
+Time for the truncated radix sort         : 0.369091s
+Time to rearrange the particles in memory : 0.137116s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.125281s
+Time to compute the morton encoding       : 0.091473s
+Time for the truncated radix sort         : 0.330325s
+Time to rearrange the particles in memory : 0.129818s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.104866s
+Time to compute the morton encoding       : 0.068386s
+Time for the truncated radix sort         : 0.337490s
+Time to rearrange the particles in memory : 0.126618s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 64
+Running for 8388608 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 128
+Running for 8388608 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 256
+Running for 8388608 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 512
+Running for 8388608 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 1024
+Running for 8388608 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 2048
+Running for 8388608 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 1
+Running for 16777216 particles with maximum height: 18
+Time to compute the hash codes            : 0.505886s
+Time to compute the morton encoding       : 0.333001s
+Time for the truncated radix sort         : 1.154844s
+Time to rearrange the particles in memory : 0.523005s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.445451s
+Time to compute the morton encoding       : 0.292817s
+Time for the truncated radix sort         : 1.074856s
+Time to rearrange the particles in memory : 0.461220s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.445334s
+Time to compute the morton encoding       : 0.292648s
+Time for the truncated radix sort         : 1.068877s
+Time to rearrange the particles in memory : 0.460901s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.445184s
+Time to compute the morton encoding       : 0.292632s
+Time for the truncated radix sort         : 1.069425s
+Time to rearrange the particles in memory : 0.460271s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.445236s
+Time to compute the morton encoding       : 0.292477s
+Time for the truncated radix sort         : 1.069857s
+Time to rearrange the particles in memory : 0.460078s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 2
+Running for 16777216 particles with maximum height: 18
+Time to compute the hash codes            : 0.262579s
+Time to compute the morton encoding       : 0.170513s
+Time for the truncated radix sort         : 0.750175s
+Time to rearrange the particles in memory : 0.316475s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.224687s
+Time to compute the morton encoding       : 0.146990s
+Time for the truncated radix sort         : 0.671129s
+Time to rearrange the particles in memory : 0.271186s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.225990s
+Time to compute the morton encoding       : 0.147081s
+Time for the truncated radix sort         : 0.679702s
+Time to rearrange the particles in memory : 0.270764s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.226977s
+Time to compute the morton encoding       : 0.146774s
+Time for the truncated radix sort         : 0.672683s
+Time to rearrange the particles in memory : 0.270903s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.225465s
+Time to compute the morton encoding       : 0.146927s
+Time for the truncated radix sort         : 0.672707s
+Time to rearrange the particles in memory : 0.270759s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 4
+Running for 16777216 particles with maximum height: 18
+Time to compute the hash codes            : 0.193226s
+Time to compute the morton encoding       : 0.123610s
+Time for the truncated radix sort         : 0.639293s
+Time to rearrange the particles in memory : 0.265139s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.162317s
+Time to compute the morton encoding       : 0.101501s
+Time for the truncated radix sort         : 0.561954s
+Time to rearrange the particles in memory : 0.213987s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.164744s
+Time to compute the morton encoding       : 0.106613s
+Time for the truncated radix sort         : 0.567823s
+Time to rearrange the particles in memory : 0.216053s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.157072s
+Time to compute the morton encoding       : 0.102266s
+Time for the truncated radix sort         : 0.565031s
+Time to rearrange the particles in memory : 0.214769s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.162266s
+Time to compute the morton encoding       : 0.102827s
+Time for the truncated radix sort         : 0.562778s
+Time to rearrange the particles in memory : 0.214764s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 8
+Running for 16777216 particles with maximum height: 18
+Time to compute the hash codes            : 0.202848s
+Time to compute the morton encoding       : 0.136525s
+Time for the truncated radix sort         : 0.657724s
+Time to rearrange the particles in memory : 0.262918s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.163391s
+Time to compute the morton encoding       : 0.103134s
+Time for the truncated radix sort         : 0.565787s
+Time to rearrange the particles in memory : 0.217163s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.162188s
+Time to compute the morton encoding       : 0.105070s
+Time for the truncated radix sort         : 0.568262s
+Time to rearrange the particles in memory : 0.227586s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.164203s
+Time to compute the morton encoding       : 0.103551s
+Time for the truncated radix sort         : 0.566827s
+Time to rearrange the particles in memory : 0.216194s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.162705s
+Time to compute the morton encoding       : 0.104396s
+Time for the truncated radix sort         : 0.565832s
+Time to rearrange the particles in memory : 0.220008s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 16
+Running for 16777216 particles with maximum height: 18
+Time to compute the hash codes            : 0.271309s
+Time to compute the morton encoding       : 0.140225s
+Time for the truncated radix sort         : 0.680867s
+Time to rearrange the particles in memory : 0.270160s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.168505s
+Time to compute the morton encoding       : 0.120723s
+Time for the truncated radix sort         : 0.610944s
+Time to rearrange the particles in memory : 0.230037s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.172822s
+Time to compute the morton encoding       : 0.113486s
+Time for the truncated radix sort         : 0.598164s
+Time to rearrange the particles in memory : 0.230128s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.171610s
+Time to compute the morton encoding       : 0.114632s
+Time for the truncated radix sort         : 0.608031s
+Time to rearrange the particles in memory : 0.229384s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.180774s
+Time to compute the morton encoding       : 0.109067s
+Time for the truncated radix sort         : 0.628170s
+Time to rearrange the particles in memory : 0.226017s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 32
+Running for 16777216 particles with maximum height: 18
+Time to compute the hash codes            : 0.431281s
+Time to compute the morton encoding       : 0.188960s
+Time for the truncated radix sort         : 0.851318s
+Time to rearrange the particles in memory : 0.337553s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.188591s
+Time to compute the morton encoding       : 0.127391s
+Time for the truncated radix sort         : 0.688777s
+Time to rearrange the particles in memory : 0.241488s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.188668s
+Time to compute the morton encoding       : 0.129437s
+Time for the truncated radix sort         : 0.714828s
+Time to rearrange the particles in memory : 0.233368s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.192415s
+Time to compute the morton encoding       : 0.127020s
+Time for the truncated radix sort         : 0.672169s
+Time to rearrange the particles in memory : 0.238735s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.185520s
+Time to compute the morton encoding       : 0.125912s
+Time for the truncated radix sort         : 0.701710s
+Time to rearrange the particles in memory : 0.239991s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 64
+Running for 16777216 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 128
+Running for 16777216 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 256
+Running for 16777216 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 512
+Running for 16777216 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 1024
+Running for 16777216 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 2048
+Running for 16777216 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 1
+Running for 33554432 particles with maximum height: 18
+Time to compute the hash codes            : 1.016241s
+Time to compute the morton encoding       : 0.666722s
+Time for the truncated radix sort         : 2.600729s
+Time to rearrange the particles in memory : 1.112485s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.894481s
+Time to compute the morton encoding       : 0.585981s
+Time for the truncated radix sort         : 2.431010s
+Time to rearrange the particles in memory : 0.985146s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.894440s
+Time to compute the morton encoding       : 0.585786s
+Time for the truncated radix sort         : 2.430996s
+Time to rearrange the particles in memory : 0.984638s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.894053s
+Time to compute the morton encoding       : 0.585788s
+Time for the truncated radix sort         : 2.431543s
+Time to rearrange the particles in memory : 0.983935s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.894208s
+Time to compute the morton encoding       : 0.585878s
+Time for the truncated radix sort         : 2.430459s
+Time to rearrange the particles in memory : 0.984380s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 2
+Running for 33554432 particles with maximum height: 18
+Time to compute the hash codes            : 0.517246s
+Time to compute the morton encoding       : 0.339076s
+Time for the truncated radix sort         : 1.641511s
+Time to rearrange the particles in memory : 0.651929s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.450268s
+Time to compute the morton encoding       : 0.293527s
+Time for the truncated radix sort         : 1.489383s
+Time to rearrange the particles in memory : 0.562276s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.450809s
+Time to compute the morton encoding       : 0.294141s
+Time for the truncated radix sort         : 1.492274s
+Time to rearrange the particles in memory : 0.563750s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.452779s
+Time to compute the morton encoding       : 0.294043s
+Time for the truncated radix sort         : 1.495888s
+Time to rearrange the particles in memory : 0.563113s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.452550s
+Time to compute the morton encoding       : 0.294111s
+Time for the truncated radix sort         : 1.492886s
+Time to rearrange the particles in memory : 0.563784s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 4
+Running for 33554432 particles with maximum height: 18
+Time to compute the hash codes            : 0.371266s
+Time to compute the morton encoding       : 0.243977s
+Time for the truncated radix sort         : 1.379552s
+Time to rearrange the particles in memory : 0.524391s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.346068s
+Time to compute the morton encoding       : 0.203754s
+Time for the truncated radix sort         : 1.243295s
+Time to rearrange the particles in memory : 0.441717s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.314367s
+Time to compute the morton encoding       : 0.205449s
+Time for the truncated radix sort         : 1.224935s
+Time to rearrange the particles in memory : 0.438577s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.312662s
+Time to compute the morton encoding       : 0.203794s
+Time for the truncated radix sort         : 1.224511s
+Time to rearrange the particles in memory : 0.441693s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.315622s
+Time to compute the morton encoding       : 0.203766s
+Time for the truncated radix sort         : 1.222439s
+Time to rearrange the particles in memory : 0.443623s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 8
+Running for 33554432 particles with maximum height: 18
+Time to compute the hash codes            : 0.381265s
+Time to compute the morton encoding       : 0.246132s
+Time for the truncated radix sort         : 1.381561s
+Time to rearrange the particles in memory : 0.525246s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.317174s
+Time to compute the morton encoding       : 0.211089s
+Time for the truncated radix sort         : 1.230542s
+Time to rearrange the particles in memory : 0.443599s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.315113s
+Time to compute the morton encoding       : 0.207645s
+Time for the truncated radix sort         : 1.228851s
+Time to rearrange the particles in memory : 0.443236s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.315867s
+Time to compute the morton encoding       : 0.209434s
+Time for the truncated radix sort         : 1.226257s
+Time to rearrange the particles in memory : 0.446446s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.317596s
+Time to compute the morton encoding       : 0.205275s
+Time for the truncated radix sort         : 1.225713s
+Time to rearrange the particles in memory : 0.445175s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 16
+Running for 33554432 particles with maximum height: 18
+Time to compute the hash codes            : 0.472504s
+Time to compute the morton encoding       : 0.275210s
+Time for the truncated radix sort         : 1.440211s
+Time to rearrange the particles in memory : 0.545910s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.330252s
+Time to compute the morton encoding       : 0.215214s
+Time for the truncated radix sort         : 1.271153s
+Time to rearrange the particles in memory : 0.457902s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.328183s
+Time to compute the morton encoding       : 0.211874s
+Time for the truncated radix sort         : 1.288644s
+Time to rearrange the particles in memory : 0.444993s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.334408s
+Time to compute the morton encoding       : 0.212435s
+Time for the truncated radix sort         : 1.326682s
+Time to rearrange the particles in memory : 0.447834s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.323884s
+Time to compute the morton encoding       : 0.208084s
+Time for the truncated radix sort         : 1.322289s
+Time to rearrange the particles in memory : 0.456748s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 32
+Running for 33554432 particles with maximum height: 18
+Time to compute the hash codes            : 0.727079s
+Time to compute the morton encoding       : 0.306128s
+Time for the truncated radix sort         : 1.688050s
+Time to rearrange the particles in memory : 0.559614s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.328326s
+Time to compute the morton encoding       : 0.217739s
+Time for the truncated radix sort         : 1.563557s
+Time to rearrange the particles in memory : 0.457463s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.338472s
+Time to compute the morton encoding       : 0.218018s
+Time for the truncated radix sort         : 1.619868s
+Time to rearrange the particles in memory : 0.473777s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.333732s
+Time to compute the morton encoding       : 0.220967s
+Time for the truncated radix sort         : 1.499216s
+Time to rearrange the particles in memory : 0.459836s
+Index test PASS
+Encoding test PASS
+Time to compute the hash codes            : 0.326048s
+Time to compute the morton encoding       : 0.233345s
+Time for the truncated radix sort         : 1.484856s
+Time to rearrange the particles in memory : 0.460375s
+Index test PASS
+Encoding test PASS
+Executing for cube distribution
+Max cilk workers to be used: 64
+Running for 33554432 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 128
+Running for 33554432 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 256
+Running for 33554432 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 512
+Running for 33554432 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 1024
+Running for 33554432 particles with maximum height: 18
+Failed to set up number of cilk workers
+Executing for cube distribution
+Max cilk workers to be used: 2048
+Running for 33554432 particles with maximum height: 18
+Failed to set up number of cilk workers
